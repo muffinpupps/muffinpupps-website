@@ -1282,34 +1282,34 @@ section,
 }
 
 /*--------------------------------------------------------------
-# Book A Table Section
+# Schedule A Visit Section
 --------------------------------------------------------------*/
-.book-a-table .reservation-img {
+.schedule-a-visit .reservation-img {
   min-height: 500px;
   background-size: cover;
   background-position: center;
 }
 
-.book-a-table .reservation-form-bg {
+.schedule-a-visit .reservation-form-bg {
   background: color-mix(in srgb, var(--default-color), transparent 97%);
 }
 
-.book-a-table .php-email-form {
+.schedule-a-visit .php-email-form {
   padding: 30px;
 }
 
 @media (max-width: 575px) {
-  .book-a-table .php-email-form {
+  .schedule-a-visit .php-email-form {
     padding: 20px;
   }
 }
 
-.book-a-table .php-email-form input[type=text],
-.book-a-table .php-email-form input[type=email],
-.book-a-table .php-email-form input[type=number],
-.book-a-table .php-email-form input[type=date],
-.book-a-table .php-email-form input[type=time],
-.book-a-table .php-email-form textarea {
+.schedule-a-visit .php-email-form input[type=text],
+.schedule-a-visit .php-email-form input[type=email],
+.schedule-a-visit .php-email-form input[type=number],
+.schedule-a-visit .php-email-form input[type=date],
+.schedule-a-visit .php-email-form input[type=time],
+.schedule-a-visit .php-email-form textarea {
   font-size: 14px;
   padding: 10px 15px;
   box-shadow: none;
@@ -1319,25 +1319,25 @@ section,
   border-color: color-mix(in srgb, var(--default-color), transparent 80%);
 }
 
-.book-a-table .php-email-form input[type=text]:focus,
-.book-a-table .php-email-form input[type=email]:focus,
-.book-a-table .php-email-form input[type=number]:focus,
-.book-a-table .php-email-form input[type=date]:focus,
-.book-a-table .php-email-form input[type=time]:focus,
-.book-a-table .php-email-form textarea:focus {
+.schedule-a-visit .php-email-form input[type=text]:focus,
+.schedule-a-visit .php-email-form input[type=email]:focus,
+.schedule-a-visit .php-email-form input[type=number]:focus,
+.schedule-a-visit .php-email-form input[type=date]:focus,
+.schedule-a-visit .php-email-form input[type=time]:focus,
+.schedule-a-visit .php-email-form textarea:focus {
   border-color: var(--accent-color);
 }
 
-.book-a-table .php-email-form input[type=text]::placeholder,
-.book-a-table .php-email-form input[type=email]::placeholder,
-.book-a-table .php-email-form input[type=number]::placeholder,
-.book-a-table .php-email-form input[type=date]::placeholder,
-.book-a-table .php-email-form input[type=time]::placeholder,
-.book-a-table .php-email-form textarea::placeholder {
+.schedule-a-visit .php-email-form input[type=text]::placeholder,
+.schedule-a-visit .php-email-form input[type=email]::placeholder,
+.schedule-a-visit .php-email-form input[type=number]::placeholder,
+.schedule-a-visit .php-email-form input[type=date]::placeholder,
+.schedule-a-visit .php-email-form input[type=time]::placeholder,
+.schedule-a-visit .php-email-form textarea::placeholder {
   color: color-mix(in srgb, var(--default-color), transparent 70%);
 }
 
-.book-a-table .php-email-form button[type=submit] {
+.schedule-a-visit .php-email-form button[type=submit] {
   color: var(--contrast-color);
   background: var(--accent-color);
   border: 0;
@@ -1346,7 +1346,7 @@ section,
   border-radius: 4px;
 }
 
-.book-a-table .php-email-form button[type=submit]:hover {
+.schedule-a-visit .php-email-form button[type=submit]:hover {
   background: color-mix(in srgb, var(--accent-color), transparent 20%);
 }
 
