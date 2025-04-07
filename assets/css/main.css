@@ -293,8 +293,8 @@ h6 {
 }
 
 .header .logo img {
-  min-height: 46px;
-  max-height: 50px;
+  min-height: 60px;
+  max-height: 64px;
   margin-right: 8px;
 }
 
