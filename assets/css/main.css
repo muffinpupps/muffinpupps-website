@@ -87,7 +87,17 @@ h6 {
 font-family: var(--heading-font); 
 }
 
+h1 {  font-family: "sirenia", sans-serif !important; font-weight: 400; font-style: italic;
+   }
 h2 {  font-family: "sirenia", sans-serif !important; font-weight: 400; font-style: italic;
+   }
+h3 {  font-family: "sirenia", sans-serif !important; font-weight: 400; font-style: italic;
+   }
+h4 {  font-family: "sirenia", sans-serif !important; font-weight: 400; font-style: italic;
+   }
+h5 {  font-family: "sirenia", sans-serif !important; font-weight: 400; font-style: italic;
+   }
+h6 {  font-family: "sirenia", sans-serif !important; font-weight: 400; font-style: italic;
    }
 
 /* Pulsating Play Button
